@@ -28,6 +28,6 @@ application: explore_assistant_cf {
     new_window_external_urls: ["https://developers.generativeai.google/*"]
     local_storage: yes
     # external_api_urls: ["https://us-central1-empty-project-418314.cloudfunctions.net/explore-assistant-api"]
-    external_api_urls: ["https://looker-ea-gateway-9gl35knl.uc.gateway.dev"]
+    external_api_urls: ["https://looker-ea-gateway-9gl35knl.uc.gateway.dev","https://us-central1-empty-project-418314.cloudfunctions.net/explore-assistant-api"]
   }
 }
